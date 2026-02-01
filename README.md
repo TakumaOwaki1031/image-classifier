@@ -4,7 +4,7 @@ Java から TensorFlow SavedModel を読み込み、画像分類を行うコン�
 モデルの学習は Python（TensorFlow）で行い、推論は Java（Gradle プロジェクト）で実行します。
 
 【特徴】
-• 	Python + TensorFlow による CNN モデル学習
+• 	Python + TensorFlow による モデル学習
 • 	SavedModel 形式でのモデル保存
 • 	Java（TensorFlow Java API）での推論
 • 	画像前処理（リサイズ・正規化）を Python/Java で統一
